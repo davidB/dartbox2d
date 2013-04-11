@@ -106,7 +106,7 @@ class World {
     _jointCount = 0,
 
     _warmStarting = true,
-    _continuousPhysics = true,
+    _continuousPhysics = false,
 
     _allowSleep = doSleep,
     _gravity = gravity,
